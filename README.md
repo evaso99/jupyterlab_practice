@@ -1,1 +1,5 @@
 # jupyterlab_practice
+The purpose of this repo is to practice some advanced features of jupyterlab in two jupyterlab notebooks. An environment is first created and exported to the repo. The two notebooks are named Question 11 and Question 12 and they can be found in the "Jupyterlab" folder. Question 11 explores using the code cell to compute the mean of a list of value and to print the result. A markdown cell is then used to explain the code and to practice expressing the equation using Latex in two different ways.
+Question 12 explores using shell command to display the current working directory and using code block in a markdown cell to display code. A code cell is also included to export the notebook in html format.
+
+A screenshot is taken for both notebooks after all cells are run. Both screenshots can be found in the Picture folder. 
